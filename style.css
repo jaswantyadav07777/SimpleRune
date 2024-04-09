@@ -1,0 +1,1181 @@
+/* *{margin: 0 !important; padding: 0 !important;} */
+/* --------------------------------------------------------------------- */
+
+
+.footer11{position: fixed;
+bottom: 0%;
+right: 0;
+font-size: 25px;
+background-color: #10BFF0;
+height: 40px;
+width: 40px;
+align-items: center;
+padding-left: 8px;
+border-radius: 50%;
+transition: 40s;
+}
+.carousel-caption {
+    padding-bottom: 8.25rem;
+    text-align: start;
+}
+
+.carousel-caption h1 {
+    width: 40%;
+}
+
+.carousel-caption span {
+    font-weight: 200;
+}
+
+.carousel-caption p {
+    width: 30%;
+    color: #A4D3FF;
+    font-size: 11px;
+}
+
+.carousel-caption a {
+    font-size: 10px;
+    font-weight: 400;
+    padding: 10px 20px;
+}
+
+.delivery {
+    width: 5% !important;
+    height: 5px !important;
+    background-color: #0DC877;
+    padding-left: 10px !important;
+}
+
+.caption1 {
+    align-items: center;
+}
+
+.difference p {
+    font-size: 15px;
+}
+
+.back1 {
+    background-color: #F0F1F5;
+}
+
+.bottom1 {
+    position: absolute;
+    top: 550px;
+    left: 220px;
+}
+
+.apps {
+    padding-top: 130px;
+}
+
+.one-app p {
+    font-size: 9px;
+}
+
+.features-4 p {
+    font-size: 12px !important;
+        line-height: 15px !important;
+}
+
+.one-app h6 {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.carousel1 {
+    margin-top:-10px !important;
+}
+
+.follow i {
+    font-size: 13px;
+}
+
+.list-unstyled i {
+    font-size: 10px;
+}
+
+.list-unstyled a {
+    font-size: 14px;
+}
+
+.book {
+    border-right: solid 2px #13A2CA;
+    margin-top: 30px;
+    height: 100px;
+    padding-right: 10px;
+}
+.bg-logo{background: url(../images/bg-logo.png) no-repeat left top; border-bottom-left-radius: 25px; background-position:-18px 0px}
+.footer11{display: none;}
+.footer11.top-h{display:block;}
+.follow:hover i {
+    color: #000000;
+    transition: 0.5s;
+}
+.bg-logo{text-align: center;}
+.bg-logo img{width:60%;}
+
+.submit {
+    margin-top: 60px;
+}
+
+.innovative span {
+    font-size: 15px;
+}
+
+header .hide{transition: 0.5s;}
+header.sticky .hide{display: none;}
+header.sticky{  animation: slideDown 0.35s ease-out;} 
+
+@keyframes slideDown {
+    from {
+      transform: translateY(-100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+/* ---------------------------------------------------------------------- */
+.w-85 {
+    width: 85% !important;
+}
+
+.w-30 {
+    width: 27%;
+}
+
+.mb-50 {
+    margin-bottom: 7rem;
+}
+
+.mt-50 {
+    margin-top: 5rem !important;
+}
+
+.pt-50 {
+    padding-top: 9rem;
+}
+
+.w-15 {
+    width: 10%;
+}
+
+.w-13 {
+    width: 15%;
+}
+
+.bg-1 {
+    background: #13A2CA;
+    align-items: center;
+}
+
+.bg-2 {
+    background: #114B78 !important;
+}
+
+.bg-3 {
+    background: #EBEBEB !important;
+}
+
+.bg-4 {
+    background: #1A76D1;
+}
+
+.bg-5 {
+    background: #dae0e6;
+}
+
+.bg-6 {
+    background: #114B78;
+}
+
+.clr1 {
+    color: #2CC7F8;
+}
+
+.clr2 {
+    color: #114B78;
+}
+
+.clr3 {
+    color: #6E7379;
+}
+
+.clr4 {
+    color: #1A76D1;
+}
+
+.clr-star {
+    color: #FFC017;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn-bg1 {
+    background: #10BFF0;
+}
+
+.nav-bar li a {
+    color: #000000;
+}
+
+.apps p {
+    line-height: 20px !important;
+}
+
+.link-bt {
+    background: #F4F4F4;
+    padding: 8px 10px;
+    border-radius: 100%;
+}
+
+/* .outer-border{border: dashed 1px #2CC7F8; border-radius: 100%; width: 250px; height: 250px; margin: auto;} */
+.s1 {
+    border: dashed 1px #2CC7F8;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.outer-border img {
+    border-radius: 100%;
+}
+
+
+
+.p-40 {
+    padding: 80px 0px;
+}
+
+.fw-40 {
+    font-weight: 700 !important;
+}
+
+.outer-border1 {
+    border: dashed 1px #fff;
+}
+
+/* .slider-bar{
+    background-image: url(../images/slide-img1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 180vh;
+} */
+
+/* .trucking-bg-img{background-image: url(../images/traking-imge.png);
+} */
+
+.transport1 {
+    min-height: 384px;
+}
+
+.trucking-bg-img {
+    background: #114B78 url(../images/turking-img.png) no-repeat;
+    background-position: top right;
+    background-size: 55%;
+}
+
+.tracking-icon {
+    bottom: -4rem;
+    
+}
+
+
+
+.software ul {
+    list-style: none;
+}
+
+.software-mobile-img {
+    top: -90px;
+    right: -10px;
+}
+
+/* calling-services */
+.btn {
+    background-color: #10BFF0 !important;
+}
+
+.btn2 {
+    background-color: #fff !important;
+}
+
+.calling-services {
+    background-image: url(../images/call-services-bg-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.star-icon i {
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.gardiant-bg {
+    background: rgba(17, 75, 120, .8);
+    width: 100%;
+    height: 400px;
+}
+
+.footer-down {
+    background: rgba(26, 118, 209, .9) !important;
+}
+
+.client-profile img {
+    margin-top: -60px;
+}
+
+.footer-icon i {
+    border-radius: 50%;
+    border: solid 1px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 8px;
+    align-items: center;
+}
+
+.transport {
+    font-size: 14px;
+}
+
+.footer ul li a {
+    color: #fff;
+}
+
+/* .footer input{background: #1A76D1;} */
+.footer ::placeholder {
+    color: #fff !important;
+}
+
+.client1 {
+    min-height: 415px !important;
+
+}
+
+.book-demo {
+    top: -11rem;
+    left: 14rem;
+    padding: 20px 20px 5px 0px;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
+.calling-icon{background: #10BFF0; display: inline-block; width: 80px; height: 80px;justify-content: center; align-items: center; display: flex; border-radius: 50%; }
+.calling-icon .bi{color: #fff; font-size: 40px; }
+
+/* .book-demo .vr{height: 10rem;} */
+
+/* .client-card{border-radius: 40px !important;} */
+
+
+
+  
+  .card-basic,
+  .card-premium,
+  .card-standard {
+
+  
+    background: #fff;
+    color: #444;
+    text-align: center;
+    border-radius: 1rem;
+    box-shadow: 0.5rem 0.5rem 1rem rgba(51, 51, 51, 0.2);
+    overflow: hidden;
+    transition: all 0.1ms ease-in-out;
+  }
+  .card-basic:hover,
+  .card-premium:hover,
+  .card-standard:hover {
+    transform: scale(1.02);
+  }
+  
+  .card-header {
+    height: 5rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.8rem;
+    padding: 1rem 0;
+    color: #fff;
+    clip-path: polygon(0 0, 100% 0%, 100% 85%, 0% 100%);
+  }
+  
+  .header-basic,
+  .btn-basic {
+    background: linear-gradient(135deg, #10BFF0, #114B78 );
+  }
+  
+  .header-standard,
+  .btn-standard {
+    background: linear-gradient(135deg, #10BFF0, #114B78 );
+  }
+  
+  .header-premium,
+  .btn-premium {
+    background: linear-gradient(135deg, #eea300, #ee5700);
+  }
+  
+  .card-body {
+    padding: 0.5rem 0;
+  }
+  .card-body h2 {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  
+  .card-element-container {
+    color: #444;
+    list-style: none;
+  }
+  
+  .btn {
+    margin: 0.5rem 0;
+    padding: 0.7rem 1rem;
+    outline: none;
+    border-radius: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: all 0.1ms ease-in-out;
+  }
+  
+  .btn:hover {
+    transform: scale(0.95);
+  }
+  
+  .btn:active {
+    transform: scale(1);
+  }
+  
+  .card-element-hidden {
+    display: none;
+  }
+  
+/* =================================================== */
+.header2{display: none;}
+  
+  /* navbar regular css start */
+  .navbar-area {
+    background: #fff;
+  }
+  .site-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  a.site-logo {
+    font-size: 26px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+  }
+  .site-navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+  }
+  .site-navbar ul li a {
+    color: #000;
+    padding: 20px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  .site-navbar ul li a:hover {
+    background: rgba(255,255,255,.1);
+  }
+  /* navbar regular css end */
+  
+  
+  /* nav-toggler css start */
+  .nav-toggler {
+    border: 3px solid #000;
+    padding: 5px;
+    background-color: transparent;
+    cursor: pointer;
+    height: 39px;
+    display: none;
+  }
+  .nav-toggler span, 
+  .nav-toggler span:before, 
+  .nav-toggler span:after {
+    width: 28px;
+    height: 3px;
+    background-color: #000;
+    display: block;
+    transition: .3s;
+  }
+  .nav-toggler span:before {
+    content: '';
+    transform: translateY(-9px);
+  }
+  .nav-toggler span:after {
+    content: '';
+    transform: translateY(6px);
+  }
+  .nav-toggler.toggler-open span {
+    background-color: transparent;
+  }
+  .nav-toggler.toggler-open span:before {
+    transform: translateY(0px) rotate(45deg);
+  }
+  .nav-toggler.toggler-open span:after {
+    transform: translateY(-3px) rotate(-45deg);
+  }
+  /* nav-toggler css start */
+  
+  
+  /* intro-area css start */
+  .intro-area {
+    height: calc(100vh - 61px);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+  }
+  .intro-area h2 {
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 50px;
+    margin-bottom: 25px;
+  }
+  .intro-area p {
+    font-size: 18px;
+  }
+  /* intro-area css end */
+  .Testimonials ul{margin: 0px; padding:0px 0px 30px 0px;}
+  
+  /* mobile breakpoint start */
+  @media screen and (max-width: 768px) {
+    .container {
+      max-width: 720px;
+    }
+    /* navbar css for mobile start */
+    .nav-toggler{
+      display: block;
+    }
+    .site-navbar {
+      min-height: 60px;
+    }
+    .site-navbar ul {
+      position: absolute;
+      width: 100%;
+      height: calc(100vh - 60px);
+      left: 0;
+      top: 60px;
+      flex-direction: column;
+    
+    
+      background-color:#fff;
+      max-height: 0;
+      overflow: hidden;
+      transition: .3s;
+      z-index: 999;
+    }
+    .site-navbar ul li {
+      width: 100%;
+     padding-left: 20px;
+    }
+    .site-navbar ul li a {
+      padding: 11px;
+    }
+    .site-navbar ul li a:hover {
+      background-color: rgba(255,255,255,.1);
+    }
+    .site-navbar ul.open {
+      max-height: 100vh;
+      overflow: visible;
+    }
+    .intro-area h2 {
+      font-size: 36px;
+      margin-bottom: 15px;
+    }  
+    /* navbar css for mobile end */
+
+    
+  }
+  /* mobile breakpoint end */
+
+/* =================================================== */
+
+
+/*============= media Query================= */
+
+@media (min-width:1450px) {
+  
+
+        .bottom1 {
+            position: absolute;
+            top: 650px;
+            left: 319px;    
+        }
+        .apps {
+            padding-top: 38px;
+        }
+
+        .tracking-icon {
+            bottom: -17rem;
+        }
+    
+}
+.header1{top: 0;}
+
+@media (max-width:1440px) {
+ 
+    .p-40 {
+        padding: 0px 0px;}
+    .pt-50{padding-top: 4rem;}
+    .mb-50{margin-bottom: 0px;}
+    .apps {
+        padding-top: 76px;
+    }
+
+    .pb-200{padding-bottom: 200px;}
+    .tracking-icon {
+        bottom: -16rem;}
+
+        .pt-50 {
+            padding-top: 6rem;
+        }
+
+        .bottom1 {
+            position: absolute;
+            top: 590px;
+            left: 220px;
+        }
+    
+}
+@media (min-width: 1920px){
+.bottom1 {
+    position: absolute;
+    top: 846px;
+    left: 348px;
+}
+.pt-50 {
+    padding-top: 4rem;
+}
+}
+@media (max-width: 1439px){
+   
+.bottom1 {
+    position: absolute;
+    top: 550px;
+    left: 220px;
+}
+}
+
+
+@media (max-width:1024px) {
+    .fw-15{font-size: 15px;}
+ 
+    .carousel-indicators {
+        display: none;
+      }
+      
+
+    .mobile2 {
+        width: 75%;
+        height: 80%;
+    }
+
+    .carousel-caption h1 {
+        width: 65%;
+    }
+
+    .carousel-caption p {
+        width: 60%;
+    }
+
+    .carousel-caption {
+        padding-bottom: 6.25rem;
+        text-align: start;
+
+    }
+
+    .bottom1 {
+        top: 450px;
+        left: 35px;
+    }
+
+   
+    .apps {
+        padding-top: 130px;
+    }
+
+    .pt-50 {
+        padding-top: 6rem;
+    }
+}
+
+@media (max-width:768px) {
+   .book-a{margin-left: 250px;}
+    .header1{display: none;}
+    .header2{display: block; }
+    .header2 {position: sticky !important; z-index: 999; top: 0;}
+
+    .second-head{padding: 0px;}
+
+    .carousel-indicators {
+        display: none;
+      }
+      
+
+
+    .carousel-caption {
+        padding-bottom: 3.25rem;
+        text-align: start;
+    }
+
+    .carousel-caption h1 {
+        width: 80%;
+    }
+
+    .carousel-caption p {
+        width: 62%;
+    }
+
+    .carousel-caption a {
+        display: none;
+    }
+
+    .back1 {
+        background-color: #F0F1F5;
+    }
+
+    .bottom1 {
+        top: 350px;
+        left: 25px;
+    }
+
+    .col {
+        flex: initial;
+    }
+
+    
+
+    .submit {
+        margin-top: 0px;
+        display: flex;
+        justify-content: end;
+    }
+
+    .hide {
+        display: none;
+    }
+
+    .navbar>.container {
+        justify-content: end;
+    }
+
+
+    .trucking-bg-img {
+        background-size: 53% 64%;
+    }
+
+    .mobile2 {
+        width: 68%;
+        padding-top: 58px;
+    }
+
+    .soft {
+        flex-wrap: wrap-reverse;
+    }
+
+    .soft1 {
+        width: 100%;
+    }
+
+    .soft2 {
+        width: 100%;
+    }
+
+    .Test {
+        flex-wrap: wrap;
+    }
+
+    .Test1 {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .Test2 {
+        width: 100%;
+    }
+
+    .client {
+        flex-wrap: wrap;
+    }
+
+    .client1 {
+        width: 100%;
+        margin-bottom: 45px;
+        margin-top: 40px;
+
+    }
+
+    .mt-50 {
+        margin-top: 0px !important;
+    }
+
+    .client2 {
+        width: 100%;
+        margin-bottom: 45px;
+    }
+
+    .client3 {
+        width: 100%;
+    }
+
+    .f1 {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .f2 {
+        width: 50%;
+    }
+
+    .f3 {
+        width: 50%;
+    }
+
+    .p-40{padding: 90px 0px 10px 0px;}
+
+    .width-50{width: 50%;}
+
+    .truck1{
+        margin-top: -138px;
+        padding-bottom: 170px;
+    }
+    .tracking-icon {
+        bottom: -4rem;
+    }
+
+    .mobile2 {
+        
+        padding-top: 12px;
+    }
+
+    .carousel1 {
+        margin-top: 0px !important;
+    }
+
+
+}
+@media (max-width:767px) {
+    .book-a{margin-left: 0px !important;}
+    
+}
+@media (max-width:430px) {
+    .tracking-icon {
+        bottom: -13rem;
+        right: 0rem;
+    }
+    .mobile2{display: none;}
+    .software{margin-top: 100px;}
+    .book-a{margin-left: 0px;}
+    .truck1 h2{font-size: 15px;
+        width: 50%;
+   }
+   .innovative span {
+    font-size: 11px;
+}
+    .mb-40 {
+        margin-bottom: 23px !important;
+    }
+    .book {
+
+        margin-top: 5px;
+        height: 30px;
+
+  
+    }
+
+    .bottom1 {
+        top: 265px;
+        left: 0px;
+    }
+
+    .apps {
+        padding-top: 350px;
+    }
+    .carousel1 {
+        margin-top: 0px !important;
+    }
+
+    .carousel-caption {
+        padding-bottom: 0rem !important;
+     
+    }
+
+    .carousel-caption h1 {
+        width: 60%; font-size: 18px;
+       
+     
+    }
+    .caption1 {font-size: 9px;}
+}
+@media (max-width:425px) {
+    .btn-bg1{display: none;}
+.m-top-p30{padding-top: 50px;}    
+    .mobile2{display: block;}
+    .software {
+        margin-top: 0px;
+    }
+
+    .truck1 h2 {
+        font-size: 25px;
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .innovative span {
+        font-size: 14px;
+    }
+
+    .bot{
+        font-size: 15px !important;
+        padding-top: 10px !important;
+    }
+
+    .caption1{
+        font-size: 9px !important;
+    }
+
+    .carousel-indicators {
+        display: none;
+      }
+      .difference{align-items: center; padding-bottom: 20px;}
+      .difference img{width: 70%;}
+
+      .difference p{margin: 0px;}
+
+    .carousel-caption {
+        padding-bottom: 0.25rem;
+        text-align: start;
+    }
+
+    .carousel-caption h1 {
+        width: 65%;
+        font-size: 13px !important;
+    }
+
+    .carousel-caption p {
+        width: 65%;
+        font-size: 9px;
+    }
+
+    .back1 {
+        background-color: #F0F1F5;
+    }
+
+    .bottom1 {
+        top: 210px;
+        left: 0px;
+    }
+
+    .apps {
+        padding-top: 400px;
+    }
+
+  
+
+    .book {
+        height: 0px;
+        margin-top: 0px;
+        border: none;
+        padding-bottom: 10px;
+    }
+
+
+    .mb-80 {
+        margin-bottom: 0px;
+    }
+
+    .mb-40 {
+        margin-bottom: 21px;
+    }
+
+    .mt-75 {
+        margin-top: 75px;
+    }
+
+    .mt-115 {
+        margin-top: -70px;
+    }
+
+    .p-53{padding: 53px 0px 0px 0px;}
+
+    .f1 {
+        width: 100%;
+    }
+
+    .f2 {
+        width: 100%;
+    }
+
+    .f3 {
+        width: 100%;
+    }
+
+    .trucking-bg-img {
+        background: #114B78 url(../images/turking-img.png) no-repeat;
+        background-position: top right;
+        background-size: 100%;
+    }
+
+    .truck {
+        flex-wrap: wrap-reverse;
+    }
+
+    .truck1 {
+        width: 100%;
+        margin-top: 20rem;
+    }
+
+    .truck2 {
+        width: 100%;
+        top: -7rem;
+    }
+
+    .truck2 img {
+        width: 50%;
+    }
+
+
+    .tracking-icon {
+        bottom: -24rem;
+    }
+
+    .p-40 {
+        padding: 0px 0px 0px 0px;
+    }
+
+    .width-50{width: 100%;}
+
+.pt-50{padding-top:50px ;}
+.mrt-2{margin-top: 2rem !important;}
+.pt-200{padding-top: 200px;}
+
+
+.mobile2 {
+        
+    padding-top: 119px;
+}
+.tracking-icon {
+    bottom: -15rem;
+    left: 0px;
+}
+
+.bottom1 {
+    top: 260px;
+    
+}
+
+}
+
+@media (max-width:375px) {
+    .m-top-p30 {
+        padding-top: 0px !important;
+    }
+    a.site-logo {
+      width: 38%;
+      }
+    .book-a{font-size: 10px;}
+    
+    .nav-toggler{height: 35px;}
+    .carousel-indicators {
+        display: none;
+      }
+      .btn {
+       
+        font-size: 10px !important;
+    }
+      
+    .bottom1 {
+        bottom: -160px;
+    }
+
+    .apps {
+        padding-top: 430px;
+    }
+
+    .carousel-caption {
+        padding-bottom: 1rem !important;
+    }
+
+    .carousel-caption h1 {
+        width: 60%;
+        font-size: 12px;
+    }
+
+    .carousel-caption p {
+        width: 57%;
+        font-size: 8px;
+    }
+
+    .caption1 {
+        display: none !important;
+    }
+
+    .mb-80 {
+        margin-bottom: 0px;
+    }
+
+    .pt-50{padding-top:20px ;}
+    .mrt-2{margin-top: 1rem !important;}
+    .book{margin-top: -20px !important;}
+
+ 
+}
+
+@media (max-width:360px) {
+    .book-a {
+       display: none;}
+  
+}
+
+@media (max-width:320px) {
+    
+    .book-a {
+       display: none;
+    }
+    .book {
+        margin-top: -44px !important;
+    }
+    .carousel-caption {
+        padding-bottom: 0rem !important;
+    }
+
+    .truck1 {
+
+        margin-top: 17rem;
+    }
+
+    .bottom1 {
+        bottom: -130px;
+    }
+
+    .carousel-caption h1 {
+        width: 70%;
+        font-size: 14px;
+    }
+
+    .apps {
+        padding-top: 451px !important;
+    }
+}
+
+@media (max-width: 390px){
+    .apps{
+        padding-top: 418px;
+    }
+}
